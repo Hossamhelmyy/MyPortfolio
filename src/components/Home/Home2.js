@@ -31,7 +31,7 @@ function Home2() {
 							<i>
 								<b className='purple'>
 									{' '}
-									Javascript and Resct.{' '}
+									Javascript and React.{' '}
 								</b>
 							</i>
 							<br />
@@ -40,11 +40,6 @@ function Home2() {
 							<i>
 								<b className='purple'>
 									Web Technologies and Products{' '}
-								</b>{' '}
-								and also in areas related to{' '}
-								<b className='purple'>
-									Deep Learning and Natural Launguage
-									Processing.
 								</b>
 							</i>
 							<br />

@@ -12,7 +12,7 @@ function AboutCard() {
 						<span className='purple'>Hossam Helmy </span>
 						from{' '}
 						<span className='purple'> Giza, Egypt.</span>
-						<br />I am a junior Frontend React Developer.
+						<br />I am a junior Frontend Developer.
 						<br />
 						<br />
 						Apart from coding, some other activities that I
